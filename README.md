@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Olá, bem vindo
+
+Eu sou desenvolvedor Fullstack.
+
+Este é meu github que eu uso para projetos e estudos
+
 
 <!--
 **NeuronioAzul/NeuronioAzul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
