@@ -2,7 +2,7 @@
 
 Eu sou desenvolvedor Fullstack.
 
-Este é meu github que eu uso para projetos e estudos
+Este é meu github que eu uso para projetos pessoais e estudos
 
 
 <!--
