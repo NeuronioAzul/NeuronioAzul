@@ -3,13 +3,13 @@
 
 <img align='right' src="/images/fullstack.png" alt="Fullstack developer" style="height: auto; width:150px;"/>
 
-## Olá, bem vindo!  👋
+## Olá, bem vindo(a)!  👋
 
-Eu nome é Mauro, eu sou Cristão, Marido, Pai e Programdor.
+Meu nome é Mauro, eu sou Cristão, Marido, Pai e Programador.
 
-Este é minha página no github que eu uso para colocar os meus projetos pessoais, estudos e alguns testes
+Este é minha página no GitHub que eu uso para colocar os meus projetos pessoais, estudos e alguns testes
 
-Esteja a vontade para acessar os projetos que eu copartilho por aqui.
+Esteja à vontade para acessar os projetos que eu compartilho por aqui.
 
 <hr>
 
