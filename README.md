@@ -108,7 +108,7 @@ Esteja à vontade para acessar os projetos que eu compartilho por aqui.
 > [![Vuejs](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vuedotjs)](https://github.com/neuronioazul)
 >
 > [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://github.com/neuronioazul)
-> [![Csharp](https://img.shields.io/badge/Csharp-black?style=for-the-badge&logo=Csharp)](https://github.com/neuronioazul)
+> [![Csharp](https://img.shields.io/badge/C#-black?style=for-the-badge&logo=Csharp)](https://github.com/neuronioazul)
 > [![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=Electron)](https://github.com/neuronioazul)
 > [![ShellScript](https://img.shields.io/badge/ShellScript-black?style=for-the-badge&logo=ShellScript)](https://github.com/neuronioazul)
 > [![XML](https://img.shields.io/badge/XML-black?style=for-the-badge&logo=xml)](https://github.com/neuronioazul)
