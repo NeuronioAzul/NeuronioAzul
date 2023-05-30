@@ -1,21 +1,20 @@
-# 🧔🏻 Perfil
-
+# 🧔🏻 Profile
 
 <img align='right' src="/images/fullstack.png" alt="Fullstack developer" style="height: auto; width:150px;"/>
 
-## Olá, bem-vindo(a)!  👋
+Hello, welcome! 👋
 
-Meu nome é Mauro, eu sou Cristão, Marido, Pai e Programador.
+My name is Mauro, and I'm a Christian, husband, father, and **web systems engineer**.
 
-Este é minha página no GitHub que eu uso para colocar os meus projetos pessoais, estudos e alguns testes.
+This is my GitHub page where I showcase my personal projects, studies, and some tests.
 
-Esteja à vontade para acessar os projetos que eu compartilho por aqui.
+Feel free to explore the projects I share here.
 
 <hr>
 
-## 📚 Meus conhecimentos 🥣 Sopa de letrinhas...
+📚 My skills 🥣 Alphabet soup...
 
-### Linguagens:
+### Programming languages:
 > [![php](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/neuronioazul)
 > [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/neuronioazul)
 > [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)](https://github.com/neuronioazul)
@@ -23,7 +22,7 @@ Esteja à vontade para acessar os projetos que eu compartilho por aqui.
 > [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/neuronioazul)
 > [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/neuronioazul)
 
-### Bancos de dados:
+### Data bases:
 > #### Relacional
 > [![mysql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/neuronioazul)
 > [![mariadb](https://img.shields.io/badge/mariadb-black?style=for-the-badge&logo=mariadb)](https://github.com/neuronioazul)
@@ -35,7 +34,7 @@ Esteja à vontade para acessar os projetos que eu compartilho por aqui.
 > [![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)](https://github.com/neuronioazul)
 > [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/neuronioazul)
 
-### Tecnologias & Frameworks:
+### Technologies and Frameworks:
 > #### Javascript
 > [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/neuronioazul)
 > [![jQuery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)](https://github.com/neuronioazul)
@@ -53,26 +52,26 @@ Esteja à vontade para acessar os projetos que eu compartilho por aqui.
 > #### CMS
 > [![WordPress](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=WordPress)](https://github.com/neuronioazul)
 
-### Testes:
+### Tests:
 > [![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=Cypress)](https://github.com/neuronioazul)
 > [![Cucumber](https://img.shields.io/badge/Cucumber-black?style=for-the-badge&logo=Cucumber)](https://github.com/neuronioazul)
 > [![Jest](https://img.shields.io/badge/Jest-black?style=for-the-badge&logo=Jest)](https://github.com/neuronioazul)
 > [![TDD](https://img.shields.io/badge/TDD-black?style=for-the-badge&logo=TDD)](https://github.com/neuronioazul)
 
-### Bibliotecas & Plugins:
+### Libraries and Plugins:
 > [![FontAwesome](https://img.shields.io/badge/FontAwesome-black?style=for-the-badge&logo=FontAwesome)](https://github.com/neuronioazul)
 > [![highcharts](https://img.shields.io/badge/highcharts-black?style=for-the-badge&logo=highcharts)](https://github.com/neuronioazul)
 > [![jqgrid](https://img.shields.io/badge/jqgrid-black?style=for-the-badge&logo=jqgrid)](https://github.com/neuronioazul)
 > [![datatable](https://img.shields.io/badge/datatable-black?style=for-the-badge&logo=datatable)](https://github.com/neuronioazul)
 
-### Versionamentos:
+### Versioning:
 > [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/neuronioazul)
 > [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/neuronioazul)
 > [![GitLab](https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab)](https://github.com/neuronioazul)
 > [![Bitbucket](https://img.shields.io/badge/Bitbucket-black?style=for-the-badge&logo=Bitbucket)](https://github.com/neuronioazul)
 > [![Subversion](https://img.shields.io/badge/subversion-black?style=for-the-badge&logo=subversion)](https://github.com/neuronioazul)
 
-### Metodologias: 
+### Methodologies: 
 > [![Agile](https://img.shields.io/badge/agile-black?style=for-the-badge&logo=agile)](https://github.com/neuronioazul)
 > [![Scrum](https://img.shields.io/badge/Scrum-black?style=for-the-badge&logo=scrumalliance)](https://github.com/neuronioazul)
 > [![Kanban](https://img.shields.io/badge/Kanban-black?style=for-the-badge&logo=Kanban)](https://github.com/neuronioazul)
@@ -82,25 +81,25 @@ Esteja à vontade para acessar os projetos que eu compartilho por aqui.
 > [![amazonaws](https://img.shields.io/badge/amazon_aws-black?style=for-the-badge&logo=amazonaws)](https://github.com/neuronioazul)
 > [![azuredevops](https://img.shields.io/badge/azuredevops-black?style=for-the-badge&logo=azuredevops)](https://github.com/neuronioazul)
 
-### Ferramentas de desenvolvimento:
-> #### Programação
+### development tools:
+> #### Programming
 > [![VS_Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=VisualStudioCode)](https://github.com/neuronioazul)
 > [![PHPStorm](https://img.shields.io/badge/PHPStorm-black?style=for-the-badge&logo=PHPStorm)](https://github.com/neuronioazul)
 > [![Netbeans](https://img.shields.io/badge/Netbeans-black?style=for-the-badge&logo=apachenetbeanside)](https://github.com/neuronioazul)
 > [![Notepad++](https://img.shields.io/badge/Notepad++-black?style=for-the-badge&logo=NotepadPlusplus)](https://github.com/neuronioazul)
 > #### API
 > [![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman)](https://github.com/neuronioazul)
-> #### Bancos de dados
+> #### Data bases
 > [![dbeaver](https://img.shields.io/badge/dbeaver-black?style=for-the-badge&logo=dbeaver)](https://github.com/neuronioazul)
 > [![HeidSQL](https://img.shields.io/badge/HeidSQL-black?style=for-the-badge&logo=HeidSQL)](https://github.com/neuronioazul)
 > [![studio_3t](https://img.shields.io/badge/studio_3t-black?style=for-the-badge&logo=Bot3t)](https://github.com/neuronioazul)
 > [![workbent](https://img.shields.io/badge/workbent-black?style=for-the-badge&logo=workbent)](https://github.com/neuronioazul)
 
-### Sistemas Operacionais:
+### OS:
 > [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/neuronioazul)
 > [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Ubuntu)](https://github.com/neuronioazul)
 
-### Conhecimentos em:
+### Knowledge in:
 > [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=nodedotjs)](https://github.com/neuronioazul)
 > [![ASP3](https://img.shields.io/badge/asp3-black?style=for-the-badge&logo=asp3)](https://github.com/neuronioazul)
 > [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash)](https://github.com/neuronioazul)
@@ -118,7 +117,7 @@ Esteja à vontade para acessar os projetos que eu compartilho por aqui.
 > [![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS)](https://github.com/neuronioazul)
 > [![SOAP](https://img.shields.io/badge/SOAP-black?style=for-the-badge&logo=SOAP)](https://github.com/neuronioazul)
 
-## O que eu ando fazendo 
+## What am I doing
 
-### 🌱 Atualmente estou aprendendo...
+### 🌱 I'm currently learning...
 > [![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://github.com/neuronioazul)
