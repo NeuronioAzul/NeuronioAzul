@@ -3,13 +3,13 @@
 
 <img align='right' src="/images/fullstack.png" alt="Fullstack developer" style="height: auto; width:150px;"/>
 
-## Olá, bem-vindo(a)!  👋
+## Olá, bem vindo!  👋
 
-Meu nome é Mauro, eu sou Cristão, Marido, Pai e Programador.
+Eu nome é Mauro, eu sou Cristão, Marido, Pai e Programdor.
 
-Este é minha página no GitHub que eu uso para colocar os meus projetos pessoais, estudos e alguns testes.
+Este é minha página no github que eu uso para colocar os meus projetos pessoais, estudos e alguns testes
 
-Esteja à vontade para acessar os projetos que eu compartilho por aqui.
+Esteja a vontade para acessar os projetos que eu copartilho por aqui.
 
 <hr>
 
@@ -24,7 +24,7 @@ Esteja à vontade para acessar os projetos que eu compartilho por aqui.
 > [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/neuronioazul)
 
 ### Bancos de dados:
-> #### Relacional
+> #### Ralacional
 > [![mysql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/neuronioazul)
 > [![mariadb](https://img.shields.io/badge/mariadb-black?style=for-the-badge&logo=mariadb)](https://github.com/neuronioazul)
 > [![postgresql](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/neuronioazul)
@@ -35,7 +35,7 @@ Esteja à vontade para acessar os projetos que eu compartilho por aqui.
 > [![SQLite](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite)](https://github.com/neuronioazul)
 > [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/neuronioazul)
 
-### Tecnologias & Frameworks:
+### Technologias & Frameworks:
 > #### Javascript
 > [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/neuronioazul)
 > [![jQuery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)](https://github.com/neuronioazul)
@@ -72,12 +72,12 @@ Esteja à vontade para acessar os projetos que eu compartilho por aqui.
 > [![Bitbucket](https://img.shields.io/badge/Bitbucket-black?style=for-the-badge&logo=Bitbucket)](https://github.com/neuronioazul)
 > [![Subversion](https://img.shields.io/badge/subversion-black?style=for-the-badge&logo=subversion)](https://github.com/neuronioazul)
 
-### Metodologias: 
+### Métodologias: 
 > [![Agile](https://img.shields.io/badge/agile-black?style=for-the-badge&logo=agile)](https://github.com/neuronioazul)
 > [![Scrum](https://img.shields.io/badge/Scrum-black?style=for-the-badge&logo=scrumalliance)](https://github.com/neuronioazul)
 > [![Kanban](https://img.shields.io/badge/Kanban-black?style=for-the-badge&logo=Kanban)](https://github.com/neuronioazul)
 
-### Dev. OPS:
+### Dev OPS:
 > [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/neuronioazul)
 > [![amazonaws](https://img.shields.io/badge/amazon_aws-black?style=for-the-badge&logo=amazonaws)](https://github.com/neuronioazul)
 > [![azuredevops](https://img.shields.io/badge/azuredevops-black?style=for-the-badge&logo=azuredevops)](https://github.com/neuronioazul)
@@ -108,7 +108,7 @@ Esteja à vontade para acessar os projetos que eu compartilho por aqui.
 > [![Vuejs](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vuedotjs)](https://github.com/neuronioazul)
 >
 > [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://github.com/neuronioazul)
-> [![C#](https://img.shields.io/badge/C_sharp-black?style=for-the-badge&logo=Csharp)](https://github.com/neuronioazul)
+> [![Csharp](https://img.shields.io/badge/Csharp-black?style=for-the-badge&logo=Csharp)](https://github.com/neuronioazul)
 > [![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=Electron)](https://github.com/neuronioazul)
 > [![ShellScript](https://img.shields.io/badge/ShellScript-black?style=for-the-badge&logo=ShellScript)](https://github.com/neuronioazul)
 > [![XML](https://img.shields.io/badge/XML-black?style=for-the-badge&logo=xml)](https://github.com/neuronioazul)
@@ -120,5 +120,5 @@ Esteja à vontade para acessar os projetos que eu compartilho por aqui.
 
 ## O que eu ando fazendo 
 
-### 🌱 Atualmente estou aprendendo...
+### 🌱 I’m currently learning / Atualmente estou aprendendo...
 > [![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://github.com/neuronioazul)
