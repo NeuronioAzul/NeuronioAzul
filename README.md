@@ -4,7 +4,7 @@
 
 Hello, welcome! 👋
 
-My name is Mauro, and I'm a Christian, husband, father, and **web systems engineer**.
+My name is Mauro, and I'm a **web systems engineer** - Fullstack.
 
 This is my GitHub page where I showcase my personal projects, studies, and some tests.
 
