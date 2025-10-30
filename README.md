@@ -1,6 +1,6 @@
 # 🧔🏻 Profile
 
-<img align='right' src="/images/fullstack.png" alt="Fullstack developer" style="height: auto; width:150px;"/>
+<img align='right' src="/images/full-stack.png" alt="Fullstack developer" style="height: auto; width:150px;"/>
 
 Hello, welcome! 👋
 
