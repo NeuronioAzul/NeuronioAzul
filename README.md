@@ -4,7 +4,7 @@
 
 Hello, welcome! 👋
 
-My name is Mauro, and I'm a **web systems engineer** - Fullstack.
+My name is Mauro, and I'm a **Architect and Software engineer** - Fullstack.
 
 This is my GitHub page where I showcase my personal projects, studies, and some tests.
 
@@ -12,7 +12,7 @@ Feel free to explore the projects I share here.
 
 <hr>
 
-📚 My skills 🥣 Alphabet soup...
+📚 My hard skills 🥣 Alphabet soup...
 
 ### Programming languages:
 > [![php](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/neuronioazul)
