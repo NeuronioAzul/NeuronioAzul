@@ -121,3 +121,4 @@ Feel free to explore the projects I share here.
 
 ### 🌱 I'm currently learning...
 > [![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://github.com/neuronioazul)
+> [![Next.js](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=Angular)](https://github.com/neuronioazul)
